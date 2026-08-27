@@ -2,11 +2,11 @@ cameraID:	0
 cameraSize:	640 480
 focalLength:	700
 markerFile:	./marker/marker.dat
-mqoModel:	./model/test_cube.mqo 1.0
+mqoModel:	./model/test_cube_red.mqo 1.0
 mqoPose:	0 0 0 0 0 1 0.0
-mqoModel:	./model/test_cube.mqo 0.75
+mqoModel:	./model/test_cube_green.mqo 1.0
 mqoPose:	0 0 0 0 0 1 0.0
-mqoModel:	./model/test_cube.mqo 0.5
+mqoModel:	./model/test_cube_blue.mqo 1.0
 mqoPose:	0 0 0 0 0 1 0.0
-mqoModel:	./model/test_cube.mqo 0.25
+mqoModel:	./model/test_cube_yellow.mqo 1.0
 mqoPose:	0 0 0 0 0 1 0.0
