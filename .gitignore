@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+venv-system/
+
+# Local editor and Codex data
+.vscode/
+.agents/
+.codex/
+
+# Local/generated output
+output_image-*.png
+*~
+\#*\#
+.#*
+
+# Large local Blender export (use model/test_cube.mqo for the shared demo)
+model/pink.mqo

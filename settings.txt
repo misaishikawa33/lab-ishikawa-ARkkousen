@@ -1,0 +1,12 @@
+cameraID:	0
+cameraSize:	640 480
+focalLength:	700
+markerFile:	./marker/marker.dat
+mqoModel:	./model/test_cube.mqo 1.0
+mqoPose:	0 0 0 0 0 1 0.0
+mqoModel:	./model/test_cube.mqo 0.75
+mqoPose:	0 0 0 0 0 1 0.0
+mqoModel:	./model/test_cube.mqo 0.5
+mqoPose:	0 0 0 0 0 1 0.0
+mqoModel:	./model/test_cube.mqo 0.25
+mqoPose:	0 0 0 0 0 1 0.0
